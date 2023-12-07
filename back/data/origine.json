@@ -1,0 +1,1039 @@
+[
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "12a999150c7187bc7f0e4e56b9ad921962232a3f",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 1.0,
+            "valeur": 76.88,
+            "unite": "%",
+            "annee": "2021",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Nuclear",
+            "sous_categorie": "Nucl\u00e9aire"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "6b68a26e3997ee3e4706b0bdbc20033412a41035",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 2.0,
+            "valeur": 0.8,
+            "unite": "%",
+            "annee": "2021",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Fuel",
+            "sous_categorie": "Fioul"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "6e6e26dab2f0051bb11a9bd48ea97eb02796388a",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 4.0,
+            "valeur": 8.56,
+            "unite": "%",
+            "annee": "2021",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Hydraulic",
+            "sous_categorie": "Hydraulique"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "b0c4c4619cb6a646f91c83609ef73a4a426927d5",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 5.0,
+            "valeur": 0.81,
+            "unite": "%",
+            "annee": "2021",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Coal",
+            "sous_categorie": "Charbon"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "dd4272c3c1e92927a37a28e6f641915809c83cfd",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 6.0,
+            "valeur": 7.0,
+            "unite": "%",
+            "annee": "2021",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Gas",
+            "sous_categorie": "Gaz"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "e74c18a878c65e2b9967953bc31375323ea38286",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 7.0,
+            "valeur": 5.95,
+            "unite": "%",
+            "annee": "2021",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Other renewables",
+            "sous_categorie": "Autres Renouvelables"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "f16aa5da1400a206541f0c45f5ac1648b044a610",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "CO2 Emission",
+            "perimetre_juridique": "EDF SA",
+            "tri": 8.0,
+            "valeur": 45.15,
+            "unite": "g/kWh fourni",
+            "annee": "2021",
+            "categorie": "Emission de CO2",
+            "sub_category": "CO2",
+            "sous_categorie": "CO2"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "dff7800444517044a6be4e25dbc7a55f2e07baa7",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Radioactive waste",
+            "perimetre_juridique": "EDF SA",
+            "tri": 9.0,
+            "valeur": 2.07,
+            "unite": "mg/kWh fourni",
+            "annee": "2021",
+            "categorie": "D\u00e9chets radioactifs",
+            "sub_category": "Radioactive waste",
+            "sous_categorie": "D\u00e9chets radioactifs"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "9a9ed0616411273a94c80e4c399f5eef7c89f106",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 10.0,
+            "valeur": 74.5,
+            "unite": "%",
+            "annee": "2020",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Nuclear",
+            "sous_categorie": "Nucl\u00e9aire"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "246fba336f2d29303343c996a1d53f4af1bd07a8",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 11.0,
+            "valeur": 0.4,
+            "unite": "%",
+            "annee": "2020",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Fuel",
+            "sous_categorie": "Fioul"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "0c7e41f53cbb97ed915f40efba11d96cb2e4f340",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 12.0,
+            "valeur": 7.2,
+            "unite": "%",
+            "annee": "2020",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Hydraulic",
+            "sous_categorie": "Hydraulique"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "aa3cecee63f56a39d949f9b271e44c95efce5bba",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 13.0,
+            "valeur": 0.3,
+            "unite": "%",
+            "annee": "2020",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Coal",
+            "sous_categorie": "Charbon"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "43c1dbaa767bcc85405d8a6f33c625f075a19431",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 14.0,
+            "valeur": 7.7,
+            "unite": "%",
+            "annee": "2020",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Gas",
+            "sous_categorie": "Gaz"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "cb23100dfdd4cec536aca70b0666fd58946e0ea1",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 15.0,
+            "valeur": 9.9,
+            "unite": "%",
+            "annee": "2020",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Other renewables",
+            "sous_categorie": "Autres Renouvelables"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "93516511de06b8d2b6f8db525220eeb168b422a2",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "CO2 Emission",
+            "perimetre_juridique": "EDF SA",
+            "tri": 16.0,
+            "valeur": 40.54,
+            "unite": "g/kWh fourni",
+            "annee": "2020",
+            "categorie": "Emission de CO2",
+            "sub_category": "CO2",
+            "sous_categorie": "CO2"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "b7432eaa1d3cc4e065cc1ba1770dd6c1e6ef8368",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Radioactive waste",
+            "perimetre_juridique": "EDF SA",
+            "tri": 17.0,
+            "valeur": 2.01,
+            "unite": "mg/kWh fourni",
+            "annee": "2020",
+            "categorie": "D\u00e9chets radioactifs",
+            "sub_category": "Radioactive waste",
+            "sous_categorie": "D\u00e9chets radioactifs"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "c3203a8e7f588875fa5877c0dea0db9130039107",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 18.0,
+            "valeur": 87.7,
+            "unite": "%",
+            "annee": "2019",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Nuclear",
+            "sous_categorie": "Nucl\u00e9aire"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "373cdb0627ef4e09b5ef6ba69534e6d1fc6b8c59",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 19.0,
+            "valeur": 1.1,
+            "unite": "%",
+            "annee": "2019",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Fuel",
+            "sous_categorie": "Fioul"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "47581d45e5e812fe1071bde05554d165982c8b1a",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 20.0,
+            "valeur": 5.6,
+            "unite": "%",
+            "annee": "2019",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Hydraulic",
+            "sous_categorie": "Hydraulique"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "72212e1520446be88a7b1da0881de919dc0b1dfb",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 21.0,
+            "valeur": 0.6,
+            "unite": "%",
+            "annee": "2019",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Coal",
+            "sous_categorie": "Charbon"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "2e972617ec83e2cdf23cb513307c60791b643fae",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 22.0,
+            "valeur": 3.5,
+            "unite": "%",
+            "annee": "2019",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Gas",
+            "sous_categorie": "Gaz"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "e30da2d0da2260651353dbc2d7f532263c6fe2e3",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 23.0,
+            "valeur": 1.5,
+            "unite": "%",
+            "annee": "2019",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Other renewables",
+            "sous_categorie": "Autres Renouvelables"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "7f0c8da04b4e9a55a1778896f61ff252a1c09a12",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "CO2 Emission",
+            "perimetre_juridique": "EDF SA",
+            "tri": 24.0,
+            "valeur": 26.78,
+            "unite": "g/kWh fourni",
+            "annee": "2019",
+            "categorie": "Emission de CO2",
+            "sub_category": "CO2",
+            "sous_categorie": "CO2"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "54ad72eafc06dfb20e25df14ad28477d1c769b4f",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Radioactive waste",
+            "perimetre_juridique": "EDF SA",
+            "tri": 25.0,
+            "valeur": 12.32,
+            "unite": "mg/kWh fourni",
+            "annee": "2019",
+            "categorie": "D\u00e9chets radioactifs",
+            "sub_category": "Short-lived radioactive waste",
+            "sous_categorie": "D\u00e9chets radioactifs vie courte"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "e0aea2a7e1feaa89ffd4b34fb292a9280824bb59",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Radioactive waste",
+            "perimetre_juridique": "EDF SA",
+            "tri": 26.0,
+            "valeur": 1.0,
+            "unite": "mg/kWh fourni",
+            "annee": "2019",
+            "categorie": "D\u00e9chets radioactifs",
+            "sub_category": "Long-lived radioactive waste",
+            "sous_categorie": "D\u00e9chets radioactifs vie longue"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "46916c987b4bd5d38317a87dc53f6e98f1599b94",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 27.0,
+            "valeur": 86.3,
+            "unite": "%",
+            "annee": "2018",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Nuclear",
+            "sous_categorie": "Nucl\u00e9aire"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "503c58a7125405813c03ca58f469232183679553",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 28.0,
+            "valeur": 1.0,
+            "unite": "%",
+            "annee": "2018",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Fuel",
+            "sous_categorie": "Fioul"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "7a6252ca6cd46f6cd52e7966d54092aef4ea86f7",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 29.0,
+            "valeur": 6.6,
+            "unite": "%",
+            "annee": "2018",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Hydraulic",
+            "sous_categorie": "Hydraulique"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "ed33cb7f0e473952bd1d510174f1d8329f57f7a5",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 30.0,
+            "valeur": 1.5,
+            "unite": "%",
+            "annee": "2018",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Coal",
+            "sous_categorie": "Charbon"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "34cff0de43ef3d77c8de0f01fa80006690286403",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 31.0,
+            "valeur": 2.7,
+            "unite": "%",
+            "annee": "2018",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Gas",
+            "sous_categorie": "Gaz"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "f3ef68ecb960b9191bb4142143b1a9899097c7e2",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 32.0,
+            "valeur": 1.9,
+            "unite": "%",
+            "annee": "2018",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Other renewables",
+            "sous_categorie": "Autres Renouvelables"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "b0f2749858d694bc56e1e039c4906bbf9f79d682",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "CO2 Emission",
+            "perimetre_juridique": "EDF SA",
+            "tri": 33.0,
+            "valeur": 31.91,
+            "unite": "g/kWh fourni",
+            "annee": "2018",
+            "categorie": "Emission de CO2",
+            "sub_category": "CO2",
+            "sous_categorie": "CO2"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "addb35211aece14f1d258ebe9086344881c18a12",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Radioactive waste",
+            "perimetre_juridique": "EDF SA",
+            "tri": 34.0,
+            "valeur": 11.7,
+            "unite": "mg/kWh fourni",
+            "annee": "2018",
+            "categorie": "D\u00e9chets radioactifs",
+            "sub_category": "Short-lived radioactive waste",
+            "sous_categorie": "D\u00e9chets radioactifs vie courte"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "99965c994a1000b5942fc13a5cec9b2dbfdf36c6",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Radioactive waste",
+            "perimetre_juridique": "EDF SA",
+            "tri": 35.0,
+            "valeur": 0.99,
+            "unite": "mg/kWh fourni",
+            "annee": "2018",
+            "categorie": "D\u00e9chets radioactifs",
+            "sub_category": "Long-lived radioactive waste",
+            "sous_categorie": "D\u00e9chets radioactifs vie longue"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "dbfcded25f4391e08d7bf536e24e71d44ad13343",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 36.0,
+            "valeur": 85.9,
+            "unite": "%",
+            "annee": "2017",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Nuclear",
+            "sous_categorie": "Nucl\u00e9aire"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "cfb9e8ec383e8aedd4a2029195a373c767147c3f",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 37.0,
+            "valeur": 1.3,
+            "unite": "%",
+            "annee": "2017",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Fuel",
+            "sous_categorie": "Fioul"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "bf6c50a0981ce67dc2e608d21962170a41b58368",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 38.0,
+            "valeur": 5.3,
+            "unite": "%",
+            "annee": "2017",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Hydraulic",
+            "sous_categorie": "Hydraulique"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "262ea21189c8c214bd240ac3d46c1f66c2ba255d",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 39.0,
+            "valeur": 1.9,
+            "unite": "%",
+            "annee": "2017",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Coal",
+            "sous_categorie": "Charbon"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "8cf6fd77f6c9a7843e9835d4d3f1c8565166721e",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 40.0,
+            "valeur": 3.7,
+            "unite": "%",
+            "annee": "2017",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Gas",
+            "sous_categorie": "Gaz"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "58f06e77b2f536cefca00fbbffb97c1f30caf57e",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 41.0,
+            "valeur": 1.9,
+            "unite": "%",
+            "annee": "2017",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Other renewables",
+            "sous_categorie": "Autres Renouvelables"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "09d607c801dca9f6a88e8ce508acc679d4d5e5c3",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "CO2 Emission",
+            "perimetre_juridique": "EDF SA",
+            "tri": 42.0,
+            "valeur": 40.66,
+            "unite": "g/kWh fourni",
+            "annee": "2017",
+            "categorie": "Emission de CO2",
+            "sub_category": "CO2",
+            "sous_categorie": "CO2"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "cb2ed65e8a9c87e845908c603a4ee171344dcb06",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Radioactive waste",
+            "perimetre_juridique": "EDF SA",
+            "tri": 43.0,
+            "valeur": 12.24,
+            "unite": "mg/kWh fourni",
+            "annee": "2017",
+            "categorie": "D\u00e9chets radioactifs",
+            "sub_category": "Short-lived radioactive waste",
+            "sous_categorie": "D\u00e9chets radioactifs vie courte"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "d02685aa395db97e6e12c1e89eac71c8d962c6d5",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Radioactive waste",
+            "perimetre_juridique": "EDF SA",
+            "tri": 44.0,
+            "valeur": 0.97,
+            "unite": "mg/kWh fourni",
+            "annee": "2017",
+            "categorie": "D\u00e9chets radioactifs",
+            "sub_category": "Long-lived radioactive waste",
+            "sous_categorie": "D\u00e9chets radioactifs vie longue"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "34f5d2f638e89017f3651c42bb91a5c1cdad1384",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 45.0,
+            "valeur": 89.13,
+            "unite": "%",
+            "annee": "2016",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Nuclear",
+            "sous_categorie": "Nucl\u00e9aire"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "7a801e5000a524dcdfa31bc4bc9fa8f7734c0799",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 46.0,
+            "valeur": 1.32,
+            "unite": "%",
+            "annee": "2016",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Fuel",
+            "sous_categorie": "Fioul"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "9252a57f9a5e1a5f8876c67d36501b01792c773a",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 47.0,
+            "valeur": 4.51,
+            "unite": "%",
+            "annee": "2016",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Hydraulic",
+            "sous_categorie": "Hydraulique"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "5bff515960104b79e08f1702615ac1dfca269516",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 48.0,
+            "valeur": 1.44,
+            "unite": "%",
+            "annee": "2016",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Coal",
+            "sous_categorie": "Charbon"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "3d98597f20cce15a36b4eb57ee706c06e0e110f0",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 49.0,
+            "valeur": 2.58,
+            "unite": "%",
+            "annee": "2016",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Gas",
+            "sous_categorie": "Gaz"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "fae50b52f94d8542ed54ae959e50640b126d87a4",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 50.0,
+            "valeur": 1.02,
+            "unite": "%",
+            "annee": "2016",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Other renewables",
+            "sous_categorie": "Autres Renouvelables"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "f28302639e7bd1f716cf70c0029ff23ef02945b0",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "CO2 Emission",
+            "perimetre_juridique": "EDF SA",
+            "tri": 51.0,
+            "valeur": 32.18,
+            "unite": "g/kWh fourni",
+            "annee": "2016",
+            "categorie": "Emission de CO2",
+            "sub_category": "CO2",
+            "sous_categorie": "CO2"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "068fa3a18680d0b142c034c0253cb4fee7d19ff9",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Radioactive waste",
+            "perimetre_juridique": "EDF SA",
+            "tri": 52.0,
+            "valeur": 12.96,
+            "unite": "mg/kWh fourni",
+            "annee": "2016",
+            "categorie": "D\u00e9chets radioactifs",
+            "sub_category": "Short-lived radioactive waste",
+            "sous_categorie": "D\u00e9chets radioactifs vie courte"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "9263200d3b7016f45675577740f9d55453c27266",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Radioactive waste",
+            "perimetre_juridique": "EDF SA",
+            "tri": 53.0,
+            "valeur": 1.0,
+            "unite": "mg/kWh fourni",
+            "annee": "2016",
+            "categorie": "D\u00e9chets radioactifs",
+            "sub_category": "Long-lived radioactive waste",
+            "sous_categorie": "D\u00e9chets radioactifs vie longue"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "6e593947b18781965fdb9b49f0d34d2fed714e98",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 54.0,
+            "valeur": 89.7,
+            "unite": "%",
+            "annee": "2015",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Nuclear",
+            "sous_categorie": "Nucl\u00e9aire"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "522175a52758a3f3160ba4dd1e1e0bfdc378aae5",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 55.0,
+            "valeur": 1.1,
+            "unite": "%",
+            "annee": "2015",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Fuel",
+            "sous_categorie": "Fioul"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "0c99b9e9d47306efb8d87ae29d6d3839727ff7c7",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 56.0,
+            "valeur": 6.3,
+            "unite": "%",
+            "annee": "2015",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Hydraulic",
+            "sous_categorie": "Hydraulique"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "115c85ade8fd77c66a54f685b078a0de92ba833b",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 57.0,
+            "valeur": 1.5,
+            "unite": "%",
+            "annee": "2015",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Coal",
+            "sous_categorie": "Charbon"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "76f19899d30184b5c7160c4b00b53bbee34195ee",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 58.0,
+            "valeur": 0.8,
+            "unite": "%",
+            "annee": "2015",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Gas",
+            "sous_categorie": "Gaz"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "b3183794feaea46cc7a91c0775d81938066e0a09",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Energy source of electricity supplied",
+            "perimetre_juridique": "EDF SA",
+            "tri": 59.0,
+            "valeur": 0.6,
+            "unite": "%",
+            "annee": "2015",
+            "categorie": "Source d'\u00e9nergie d'\u00e9lectricit\u00e9 fournie",
+            "sub_category": "Other renewables",
+            "sous_categorie": "Autres Renouvelables"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "4ec6b4a3d03b739232574edf9e3cd5329b129d4a",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "CO2 Emission",
+            "perimetre_juridique": "EDF SA",
+            "tri": 60.0,
+            "valeur": 25.02,
+            "unite": "g/kWh fourni",
+            "annee": "2015",
+            "categorie": "Emission de CO2",
+            "sub_category": "CO2",
+            "sous_categorie": "CO2"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "ea45e09df187fc7854018ea7217e53630a787e29",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Radioactive waste",
+            "perimetre_juridique": "EDF SA",
+            "tri": 61.0,
+            "valeur": 11.1,
+            "unite": "mg/kWh fourni",
+            "annee": "2015",
+            "categorie": "D\u00e9chets radioactifs",
+            "sub_category": "Short-lived radioactive waste",
+            "sous_categorie": "D\u00e9chets radioactifs vie courte"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    },
+    {
+        "datasetid": "origine-de-lelectricite-fournie-par-edf-sa",
+        "recordid": "d058c5badc05d7946b9f1875689bb4b3d51f9ee0",
+        "fields": {
+            "perimetre_spatial": "France",
+            "category": "Radioactive waste",
+            "perimetre_juridique": "EDF SA",
+            "tri": 62.0,
+            "valeur": 1.0,
+            "unite": "mg/kWh fourni",
+            "annee": "2015",
+            "categorie": "D\u00e9chets radioactifs",
+            "sub_category": "Long-lived radioactive waste",
+            "sous_categorie": "D\u00e9chets radioactifs vie longue"
+        },
+        "record_timestamp": "2022-11-17T16:49:44.720+01:00"
+    }
+]

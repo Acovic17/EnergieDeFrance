@@ -1,0 +1,65 @@
+.cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.lists {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.header {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid rgb(255, 145, 0);
+    background-color: rgba(8, 0, 255, 0.205);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.31);
+    border-radius: 20px;
+}
+
+.data {
+    display: flex;
+    width: 100%;
+    flex: 4;
+    justify-content: space-evenly;
+}
+
+.graph {
+    margin: 10px;
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(255, 145, 0);
+    background-color: rgba(8, 0, 255, 0.205);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.31);
+    border-radius: 20px;
+}
+
+.table {
+    margin: 10px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(255, 145, 0);
+    background-color: rgba(8, 0, 255, 0.205);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.31);
+    border-radius: 20px;
+}
+
+.MuiButton-contained.selected {
+    background-color: rgb(255, 145, 0);
+}

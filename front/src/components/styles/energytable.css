@@ -1,0 +1,31 @@
+.DataTableContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.DataTableColumn {
+    flex: 1;
+    padding: 10px;
+}
+
+.DataTableList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.DataTableList li {
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.GreenArrow {
+    color: green;
+    margin-left: 5px;
+}
+
+.RedArrow {
+    color: red;
+    margin-left: 5px;
+}

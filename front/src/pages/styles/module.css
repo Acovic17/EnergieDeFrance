@@ -1,0 +1,72 @@
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 0 10%;
+}
+
+.selectYear {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    overflow-y: auto;
+    height: 92vh;
+    border: 1px solid blue;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.selectYear h3 {
+    padding-top: 10px;
+    text-align: center;
+    color: blue;
+}
+
+.selectYear::-webkit-scrollbar {
+    display: none;
+}
+
+.listing {
+    display: flex;
+    justify-content: center;
+}
+
+.listing Button {
+    margin: 0 5px;
+}
+
+.listing::-webkit-scrollbar {
+    display: none;
+}
+
+.MuiButton-contained.selectedButt {
+    background-color: rgb(255, 145, 0);
+}
+
+
+.showData {
+    display: flex;
+    flex: 5;
+    flex-direction: row;
+}
+
+.data {
+    display: flex;
+    flex: 2;
+    justify-content: center;
+    border: 1px solid blue;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.pie {
+    display: flex;
+    flex: 3;
+    justify-content: center;
+    border: 1px solid blue;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}

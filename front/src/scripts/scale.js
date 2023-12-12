@@ -24,19 +24,27 @@ const Scale = ({ energy }) => {
                     chartRef.current.chart.destroy();
                 }
 
+                const datasets = [
+                    {
+                        label: 'Données EDF',
+                        data: values,
+                        borderColor: labels.map(year => (parseInt(year, 10) <= 2021 ? 'rgba(255, 145, 0, 1)' : 'rgba(0, 0, 255, 1)')),
+                        borderWidth: 5,
+                        pointBackgroundColor: labels.map(year => (parseInt(year, 10) <= 2021 ? 'rgba(255, 145, 0, 1)' : 'rgba(0, 0, 255, 1)')),
+                        pointRadius: 5,
+                        fill: false,
+                    },
+                    {
+                        label: 'Prédictions',
+                        borderColor: 'orange',
+                    },
+                ];
+
                 chartRef.current.chart = new Chart(ctx, {
                     type: 'line',
                     data: {
                         labels: labels,
-                        datasets: [{
-                            label: 'Valeur',
-                            data: values,
-                            borderColor: 'rgba(255, 145, 0, 0.7)',
-                            borderWidth: 5,
-                            pointBackgroundColor: 'rgba(255, 145, 0, 1)',
-                            pointRadius: 5,
-                            fill: false,
-                        }],
+                        datasets: datasets,
                     },
                     options: {
                         scales: {
@@ -45,7 +53,7 @@ const Scale = ({ energy }) => {
                                 time: {
                                     unit: 'year',
                                     displayFormats: {
-                                        year: 'YYYY', // Specify the format for the year
+                                        year: 'YYYY',
                                     },
                                 },
                                 title: {
@@ -65,7 +73,7 @@ const Scale = ({ energy }) => {
                         plugins: {
                             title: {
                                 display: true,
-                                text: 'Chart Title',
+                                text: `Évolution du ${energy} aucours des années et les prédictions`,
                                 position: 'top',
                                 font: {
                                     size: 16,
@@ -92,7 +100,11 @@ const Scale = ({ energy }) => {
         fetchData();
     }, [energy]);
 
-    return <canvas ref={chartRef} style={{ width: '100%', maxWidth: '600px' }} />;
+    return (
+        <div style={{ width: '100%', maxWidth: '700px', maxHeight:'100%', height:'700px', display:'flex', justifyContent:'center'}}>
+            <canvas ref={chartRef} style={{ width: '100%', maxWidth: '700px', maxHeight:'100%', height:'700px'}} />
+        </div>
+    );
 };
 
 export default Scale;

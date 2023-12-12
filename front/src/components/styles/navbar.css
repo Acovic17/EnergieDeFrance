@@ -1,0 +1,47 @@
+.navbar {
+    background-color: #ffffff;
+    overflow: hidden;
+    padding: 5px 100px 5px 100px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.selection {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+}
+
+.navbar a {
+    color: rgb(0, 0, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: larger;
+    transition: transform 0.3s ease;
+}
+
+.navbar a:hover {
+    color: rgb(255, 111, 0);
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.navbar img {
+    width: 40px;
+    height: 40px;
+}
+
+.navbar ion-icon {
+    margin-left: auto;
+    color: rgb(0, 0, 255);
+}
+
+.navbar ion-icon:hover {
+    cursor: pointer;
+    border-radius: 50%;
+    color: rgb(255, 111, 0);
+}

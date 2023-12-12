@@ -29,7 +29,7 @@ const DataTable = ({ label }) => {
         </ul>
       </div>
       <div className="DataTableColumn">
-        <h3>Consommation(%)</h3>
+        <h3>Consommation</h3>
         <ul className="DataTableList">
           {tableData.valeur.map((value, index) => (
             <li key={index}>{value}</li>

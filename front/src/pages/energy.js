@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Scale from '../scripts/scale.js';
-import './styles/year.css';
+import './styles/module.css';
 import Button from '@mui/material/Button';
 import DataTable from '../components/energytable.js';
 
@@ -13,31 +13,31 @@ const Energy = () => {
     };
 
     return (
-        <div className='cont'>
-            <div className='header'>
-                <h1 className='textStyle'>
-                    Veuillez sélectionner l'énergie qui vous intéresse.
-                </h1>
-                <ul className='lists'>
-                    {energyList.map((text, index) => (
-                        <Button
-                            variant="contained"
-                            key={index}
-                            onClick={() => handleEnergyClick(text)}
-                            disableRipple={true}
-                            className={selectedEnergy === text ? 'selected' : ''}
-                        >
-                            {text}
-                        </Button>
-                    ))}
-                </ul>
+        <div className='mainContainer'>
+            <div className='selectYear'>
+                <h3>Sélectionnez l'énergie que vous souhaitez consulter.</h3>
+                <div>
+                    <ul className='listing'>
+                        {energyList.map((text, index) => (
+                            <Button
+                                variant={selectedEnergy === text ? 'contained' : "outlined"}
+                                key={index}
+                                onClick={() => handleEnergyClick(text)}
+                                disableRipple={true}
+                                className={selectedEnergy === text ? 'selectedButt' : ''}
+                            >
+                                {text}
+                            </Button>
+                        ))}
+                    </ul>
+                </div>
             </div>
-            <div className='data'>
-                <div className='table'>
+            <div className='showData'>
+                <div className='data'>
                     {selectedEnergy ? (
                         <div style={{ flex: '1' }}>
                             <h1 style={{ textAlign: 'center' }}>Tableau représentatif</h1>
-                            <div style={{ display: 'flex', alignContent: 'center' }}>
+                            <div style={{ display: 'flex', alignContent: 'center', justifyContent: 'center' }}>
                                 <DataTable label={selectedEnergy} />
                             </div>
                         </div>
@@ -45,7 +45,7 @@ const Energy = () => {
                         <p>Aucune donnée, veuillez sélectionner une année.</p>
                     )}
                 </div>
-                <div className='graph'>
+                <div className='pie'>
                     {selectedEnergy ? (
                         <Scale energy={selectedEnergy} />
                     ) : (

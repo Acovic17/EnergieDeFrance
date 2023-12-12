@@ -27,10 +27,6 @@ def getEnergies(year):
 def getPollution(year):
     return data.getPollution(str(year))
 
-@app.get('/getInfoEnergy')
-def getInfoEnergy(energy, year):
-    return data.getInfoEnergy(energy, year)
-
 @app.get('/getOverYears')
 def getOverYears(energy):
     return data.getOverYears(energy)

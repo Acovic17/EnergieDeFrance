@@ -1,0 +1,156 @@
+[
+    {
+        "datasetid": "bilan-previsionnel-electrique-2021-offre-de-production",
+        "recordid": "54d357166f6a5abc9b319256816e9fd032acf25e",
+        "fields": {
+            "bioenergies": 2.172,
+            "annee": "2022",
+            "photovoltaique": 11.385,
+            "cogenerations": 5.295,
+            "nucleaire": 61.37,
+            "scenario": "Atteinte des objectifs PPE/SNBC en fin d\u2019horizon",
+            "energies_marines": 0.0,
+            "fioul_lourd": 0.0,
+            "turbines_a_combustion": 2.01,
+            "autres_moyens_thermiques": 1.2,
+            "cycles_combines_au_gaz": 6.23,
+            "eolien": 18.917,
+            "charbon": 1.76,
+            "effacements": 3.4,
+            "hydraulique": 25.52
+        },
+        "record_timestamp": "2021-10-05T09:36:04.962+02:00"
+    },
+    {
+        "datasetid": "bilan-previsionnel-electrique-2021-offre-de-production",
+        "recordid": "f724b834027f71d1cba5c6a0a09fa731ae7da02d",
+        "fields": {
+            "bioenergies": 2.197,
+            "annee": "2023",
+            "photovoltaique": 12.5,
+            "cogenerations": 5.245,
+            "nucleaire": 61.37,
+            "scenario": "Atteinte des objectifs PPE/SNBC en fin d\u2019horizon",
+            "energies_marines": 0.0,
+            "fioul_lourd": 0.0,
+            "turbines_a_combustion": 2.01,
+            "autres_moyens_thermiques": 0.9,
+            "cycles_combines_au_gaz": 6.69,
+            "eolien": 20.939,
+            "charbon": 0.0,
+            "effacements": 3.6,
+            "hydraulique": 25.54
+        },
+        "record_timestamp": "2021-10-05T09:36:04.962+02:00"
+    },
+    {
+        "datasetid": "bilan-previsionnel-electrique-2021-offre-de-production",
+        "recordid": "0c7ef24c9c1b71b45839cd09da968fb7d4006646",
+        "fields": {
+            "bioenergies": 2.4,
+            "annee": "2024",
+            "photovoltaique": 31.19,
+            "cogenerations": 3.9,
+            "nucleaire": 59.4,
+            "scenario": "Atteinte partielle des objectifs PPE/SNBC",
+            "energies_marines": 0.0,
+            "fioul_lourd": 0.0,
+            "turbines_a_combustion": 1.64,
+            "autres_moyens_thermiques": 0.0,
+            "cycles_combines_au_gaz": 6.69,
+            "eolien": 40.025,
+            "charbon": 0.0,
+            "effacements": 4.5,
+            "hydraulique": 25.47
+        },
+        "record_timestamp": "2021-10-05T09:36:04.962+02:00"
+    },
+    {
+        "datasetid": "bilan-previsionnel-electrique-2021-offre-de-production",
+        "recordid": "67ae8c456749410af1b7527f31ad206b53acaa",
+        "fields": {
+            "bioenergies": 2.247,
+            "annee": "2025",
+            "photovoltaique": 18.185,
+            "cogenerations": 5.145,
+            "nucleaire": 63.02,
+            "scenario": "Atteinte des objectifs PPE/SNBC en fin d\u2019horizon",
+            "energies_marines": 0.0,
+            "fioul_lourd": 0.0,
+            "turbines_a_combustion": 2.01,
+            "autres_moyens_thermiques": 0.3,
+            "cycles_combines_au_gaz": 6.69,
+            "eolien": 25.983,
+            "charbon": 0.0,
+            "effacements": 4.0,
+            "hydraulique": 25.64
+        },
+        "record_timestamp": "2021-10-05T09:36:04.962+02:00"
+    },
+    {
+        "datasetid": "bilan-previsionnel-electrique-2021-offre-de-production",
+        "recordid": "944122c6d7fbf356fde0cb275321d0edae659561",
+        "fields": {
+            "bioenergies": 2.272,
+            "annee": "2026",
+            "photovoltaique": 21.185,
+            "cogenerations": 4.903,
+            "nucleaire": 63.02,
+            "scenario": "Atteinte des objectifs PPE/SNBC en fin d\u2019horizon",
+            "energies_marines": 0.0,
+            "fioul_lourd": 0.0,
+            "turbines_a_combustion": 2.01,
+            "autres_moyens_thermiques": 0.3,
+            "cycles_combines_au_gaz": 6.69,
+            "eolien": 28.775,
+            "charbon": 0.0,
+            "effacements": 4.2,
+            "hydraulique": 25.72
+        },
+        "record_timestamp": "2021-10-05T09:36:04.962+02:00"
+    },
+    {
+        "datasetid": "bilan-previsionnel-electrique-2021-offre-de-production",
+        "recordid": "7292113c810975f6383b0659643d395cf58be652",
+        "fields": {
+            "bioenergies": 2.397,
+            "annee": "2027",
+            "photovoltaique": 47.331,
+            "cogenerations": 3.9,
+            "nucleaire": 59.4,
+            "scenario": "Atteinte des objectifs PPE/SNBC en fin d\u2019horizon",
+            "energies_marines": 0.0,
+            "fioul_lourd": 0.0,
+            "turbines_a_combustion": 1.64,
+            "autres_moyens_thermiques": 0.0,
+            "cycles_combines_au_gaz": 6.69,
+            "eolien": 43.515,
+            "charbon": 0.0,
+            "effacements": 6.5,
+            "hydraulique": 27.12
+        },
+        "record_timestamp": "2021-10-05T09:36:04.962+02:00"
+    },
+    {
+        "datasetid": "bilan-previsionnel-electrique-2021-offre-de-production",
+        "recordid": "e107a34f84b79d7912a175434aa9da41f9576656",
+        "fields": {
+            "bioenergies": 2.222,
+            "annee": "2028",
+            "photovoltaique": 15.185,
+            "cogenerations": 5.195,
+            "nucleaire": 63.02,
+            "scenario": "Atteinte des objectifs PPE/SNBC en fin d\u2019horizon",
+            "energies_marines": 0.0,
+            "fioul_lourd": 0.0,
+            "turbines_a_combustion": 2.01,
+            "autres_moyens_thermiques": 0.6,
+            "cycles_combines_au_gaz": 6.69,
+            "eolien": 23.733,
+            "charbon": 0.0,
+            "effacements": 3.8,
+            "hydraulique": 25.56
+        },
+        "record_timestamp": "2021-10-05T09:36:04.962+02:00"
+    }
+]

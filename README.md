@@ -2,9 +2,16 @@
 
 Ce projet a été réalisé dans l'encadrement du hub à Epitech Paris.
 
-Le projet a pour but de mettre à disposition une plateforme (web) à une quelconque tierce personne, qui souhaite comprendre pourquoi les prix des énergies en France a pu augmenter ou baisser sur certaines périodes.
+Le projet a pour but de mettre à disposition une plateforme web (qui est ici en local) à une quelconque tierce personne, qui souhaite comprendre pourquoi les prix des énergies en France a pu augmenter ou baisser sur certaines périodes.
 
 ## Lancer le projet
+
+### Récupérer le repository
+
+Il faut d'abord importer le répertoire sur votre machine pour se faire :
+
+`git clone git@github.com:Acovic17/EnergieDeFrance.git`
+
 
 ### Back
 
@@ -30,3 +37,7 @@ Puis executer les commandes suivantes:
 ## Sources
 
 Vous pourrez retrouver la page contenant le projet dans son intégralité : `https://www.data.gouv.fr/fr/pages/odu/defi_energie/`
+
+Les datasets utilisés :
+- `https://www.data.gouv.fr/fr/datasets/origine-de-lelectricite-fournie-par-edf-sa/`
+- `https://www.data.gouv.fr/fr/datasets/bilan-previsionnel-electrique-2021-offre-de-production/`
